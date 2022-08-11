@@ -6,6 +6,12 @@ Just a place for me to play with StarkNet.js
 **DISCLAIMER: There is no guarantee that any code in this repository is correct or even works. Use it entirely at your own risk. No responsibility is taken for any inadvertent distribution of your private keys or any loss of any funds 
 that may result from using this code. Ensuring that your funds and private keys are safe is solely your responsibility.**
 
+## StarkNet Compiler
+
+To compile the StarkNet contracts in this repository, you will need to have [set up a Cairo environment](https://starknet.io/docs/quickstart.html).
+
+You will also need to ensure that you have installed the [OpenZeppelin Cairo contracts](https://github.com/OpenZeppelin/cairo-contracts).
+
 ## Environment
 
 You will need to create a `.env` file to store important information. This file should be created in the project's root directory:
