@@ -1,0 +1,7 @@
+.idea
+node_modules
+build
+deployment
+starknet-accounts
+.env
+jetpack.mjs
